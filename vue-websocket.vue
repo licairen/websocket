@@ -1,12 +1,12 @@
 <template>
-  <div class="test">
+  <div class="websock-wrapper">
 
   </div>
 </template>
 
 <script>
   export default {
-    name : 'test',
+    name : 'websock',
     data() {
       return {
         websock: null,
